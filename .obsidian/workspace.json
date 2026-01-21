@@ -11,38 +11,16 @@
             "id": "43501a480fd8aa14",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "bases",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 33.90421913135859,
-                  "y": -32.77086575253611,
-                  "zoom": -0.3333333333333333
-                }
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "24e92cc8a679425f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-table",
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,16 +163,27 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "136329adfdb681ef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -204,15 +193,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "46a27a6574b2358a",
+  "active": "43501a480fd8aa14",
   "lastOpenFiles": [
     "Untitled 1.canvas",
-    "2026-01-21.md",
+    "Untitled.base",
+    "Subjects.md",
     "Untitled.canvas",
     "create a link.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Subjects.md",
-    "Welcome.md"
+    "Welcome.md",
+    "2026-01-21.md",
+    "Untitled 1.base"
   ]
 }
