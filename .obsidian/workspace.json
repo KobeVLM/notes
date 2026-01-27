@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cdd78e08cddfdcac",
+        "id": "480d79c579330206",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects.md",
+                "file": "create a link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subjects"
+              "title": "create a link"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "create a link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for create a link"
             }
           },
           {
@@ -184,25 +184,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "43501a480fd8aa14",
   "lastOpenFiles": [
+    "Testing.canvas",
     "Untitled 1.canvas",
-    "Subjects.md",
-    "Untitled 1.base",
-    "Untitled.canvas",
-    "Untitled.base",
     "create a link.md",
+    "Subjects.md",
+    "Untitled.base",
     "Welcome.md",
+    "Untitled 1.base",
     "2026-01-21.md"
   ]
 }
